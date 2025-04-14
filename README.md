@@ -13,4 +13,8 @@ Este é um projeto simples de gerenciamento de vagas desenvolvido em PHP com ban
 
 - PHP
 - MySQL
-- HTML/CSS
+- HTML/BOOTSTRAP
+
+📷 Capturas de Tela
+🔸 Tela Inicial (Lista de Vagas)
+![Captura de Tela (2)](https://github.com/user-attachments/assets/dbd5e442-1591-4880-8eba-b1a374d4cac3)
