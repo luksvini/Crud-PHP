@@ -17,7 +17,7 @@ Este é um projeto simples de gerenciamento de vagas desenvolvido em PHP com ban
 
   <hr>
 
-<h1>📷 Capturas de Tela</h1> <br> 
-🔸 Tela Inicial (Lista de Vagas)
+## 📷 Capturas de Tela 
+🔸 Tela Inicial (Lista de Vagas) <br>
 <img src="https://github.com/user-attachments/assets/dbd5e442-1591-4880-8eba-b1a374d4cac3" alt="Captura de Tela" style="width: 70%; border-radius: 8px;" />
 
